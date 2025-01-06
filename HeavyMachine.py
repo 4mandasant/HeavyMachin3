@@ -1,6 +1,4 @@
 
-
-
 import json
 import os
 import tkinter as tk
